@@ -1,0 +1,19 @@
+BackupG3 0.3 by Marc0sgb
+
+backup_g3w -> Windows
+BackupG3 v0.3
+-Añadido segundo script para restaurar las copias de seguridad creadas
+-Corregidos algunos errores
+
+BackupG3 v0.2
+-Creado menu de opciones
+-Posibilidad de crear copias individuales de la particion que te interese EFS, Recovery, System o Datos de usuario
+-Copia completa de todas las particiones del telefono
+-Corregido algun error menor
+
+BackupG3 v0.1
+-Crea copias automaticas mediante adb de las particiones recovery, efs y system
+
+backup_g3l -> Linux
+
+
